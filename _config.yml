@@ -21,7 +21,7 @@ repository               : "yasirabd/yasirabd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yasir.png"
   name             : "Yasir Abdur Rohman"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist"
