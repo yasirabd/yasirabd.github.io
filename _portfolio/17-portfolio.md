@@ -11,12 +11,12 @@ The documentation:
 
 
 Robosemar V2 able to interact responsively
-<video controls>
+<video width="240" height="320" controls>
   <source src="/images/pt17-vid1.mp4" type="video/mp4">
 </video>
 
 
 Robosemar V2 can understand and respond despite noisy surroundings
-<video controls>
+<video width="240" height="320" controls>
   <source src="/images/pt17-vid2.mp4" type="video/mp4">
 </video>
