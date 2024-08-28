@@ -8,7 +8,7 @@ This project is a part of the Solver Society program by Iykra.
 
 We crawled the data from Jobstreet and Glints and then analyzed the job data by demand in Indonesia. We also created an interactive dashboard to find the necessary skills by location and profession.
 
-The view of the job demand dasboard.
+The view of the job demand dashboard.
 <img src='/images/pt9-img1.png'>
 
 You can access our project here:
