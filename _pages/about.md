@@ -27,14 +27,14 @@ The important facts about Yasir Abdur Rohman are that he is also a teacher (teac
 ### Education
  - BSc Computer Science, Universitas Diponegoro (GPA: 3.58)
 
- ### Professional Certificate
+### Professional Certificate
  - [Google Cloud Certificate](https://www.cloudskillsboost.google/public_profiles/d76b5da8-11ab-4f5f-8e88-1ba51dc477d9)
  - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://coursera.org/share/87f47db6afb5f58f3e98f5e05132f6ba)
  - [TensorFlow: Advanced Techniques Specialization (DeepLearning.AI)](https://coursera.org/share/4702a0ffe19b91bbe492ed5557c522f2)
  - [Natural Language Processing Specialization (DeepLearning.AI)](https://coursera.org/share/1e9f9f6a9f6de00969c2aa0916df541e)
  - [Customer Experiences with Contact Center AI - Dialogflow ES Specialization (Google Cloud)](https://coursera.org/share/21538d71cb47c800b48a03639bf4f983)
  
- ### Other Certificate
+### Other Certificate
  - Data Analyst with Python Track - Datacamp
  - Data Scientist with Python Track - Datacamp
  - Python Programmer Track - Datacamp
