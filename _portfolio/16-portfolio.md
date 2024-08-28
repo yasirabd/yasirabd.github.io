@@ -7,6 +7,6 @@ collection: portfolio
 We developed a conversational AI for Robosemar V1 using Dialogflow and deployed it on a Jetson Nano. While Robosemar can interact with users and discuss about Semarang, it sometimes struggles to recognize voice input and responds slowly.
 
 The documentation:
-<img src='/images/pt16-img1.png'>
-<img src='/images/pt16-img2.png'>
-<img src='/images/pt16-img3.png'>
+<img src='/images/pt16-img1.jpeg'>
+<img src='/images/pt16-img2.jpeg'>
+<img src='/images/pt16-img3.jpeg'>
