@@ -9,10 +9,12 @@ We enhanced Robosemar V2's conversational capabilities by integrating a Dialogfl
 The documentation:
 <img src='/images/pt17-img1.jpeg'>
 
+
 Robosemar V2 able to interact responsively
 <video controls>
   <source src="/images/pt17-vid1.mp4" type="video/mp4">
 </video>
+
 
 Robosemar V2 can understand and respond despite noisy surroundings
 <video controls>
