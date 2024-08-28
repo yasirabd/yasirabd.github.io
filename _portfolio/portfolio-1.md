@@ -1,10 +1,8 @@
 ---
 title: "(2018) Develop a system that can automatically generate news stories from Twitter data by applying Part-of-Speech Latent Dirichlet Allocation (POSLDA) and Context Free Grammar (CFG) to extract relevant topics."
-excerpt: ""
+excerpt: "This project is my final assignment for completing study Bachelor in Computer Science Universitas Diponegoro."
 collection: portfolio
 ---
-
-This project is my final assignment for completing study Bachelor in Computer Science Universitas Diponegoro.
 
 **Abstract:**
 Twitter active users in Indonesia reached 50 million users from a total worldwide of 284 million in 2015. In January 2019, active users on Twitter increased by 52% compared to 2018 where active users were only 27%.A large number of users causes the number of tweet documents increases. Tweet documents that contain information such as user activity, news, story can be processed into valuable information for journalists. All of the information collected then arranged based on related tweets into a storytelling that will become news/article. The whole process is still done manually by collecting one by one for each tweet and most of the tweet documents are collected from the trending topic. Actually, that should be done automatically by collecting tweets that have the same topic. Therefore, this research proposes a method of Twitter storytelling generator that combines Latent Dirichlet Allocation (LDA) and Hidden Markov Model POS-TAG (Part-of-Speech Tagging), so it can generate twitter storytelling based on the certain topic. We implemented two scenarios of the experiment. The first experimental calculating the value of perplexity on LDA and HMM POS-TAG, yielding the lowest perplexity value of 6.31 with alpha 0.001, beta 0.001, and the number of topics 4. While the second experimental calculating the value of ROUGE-1, ROUGE-2, BLEU-1, and BLEU-2 on the results of Twitter storytelling generator, yielding the best ROUGE-1 value is 0.470 with the beta cap value of 0.1 and the best ROUGE-2 value is 0.149 with the beta cap value of 0.001. Meanwhile, the best BLEU-1 value is 0.617 on the topic 1 and the best BLEU-2 value is 0.432 on the topic 3. Twitter storytelling generator using the proposed method has good performance when HMM POS-TAG can tagging the tweet documents correctly.
