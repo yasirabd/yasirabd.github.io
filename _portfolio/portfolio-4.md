@@ -1,7 +1,13 @@
 ---
-title: "(2020) Develop a Website for Prognostic and Health Management (PHM) Using SCADA Data"
-excerpt: "[NDA] Create a web-based application to monitor and predict the performance of SCADA systems, for example on vibration sensor data."
+title: "(2019) Prognostic dan Diagnostic Malfunction on Turbine Vibration"
+excerpt: "Create a website-based application for monitoring power plants"
 collection: portfolio
 ---
 
-The project has a Non-Disclosure Agreement (NDA) with PT PLN Indonesia Power
+The project aims to forecast/prognosticate the condition of power plants to monitor their status. Based on the prognostic results, a diagnosis will be conducted to identify the type of malfunction. The ultimate goal is to perform early maintenance.
+
+Dashboard for monitoring equipment condition
+<img src='/images/pt4-img1.png'>
+
+Forecast of vibration sensor
+<img src='/images/pt4-img2.png'>
