@@ -31,7 +31,7 @@ The important facts about Yasir Abdur Rohman are that he is also a teacher (teac
 - **(May 2016 - current)** Advisor, Semarang Android Developer Center
 - **(Apr 2020 - Mar 2023)** Head, Data Science Indonesia Reg. Jawa Tengah
 - **(Oct 2018 - Apr 2020)** Volunteer, Data Science Indonesia Reg. Jawa Tengah
-- **(Apr 2017 - Dec 2020)** Organizer, Python ID Semarang
+- **(Apr 2017 - Dec 2019)** Organizer, Python ID Semarang
 - **(Mar 2017 - Dec 2018)** Organizer, Semarang Data Science
 - **(Jun 2016 - May 2018)** Founder & Trainer, Semarang Android Developer Center
 
