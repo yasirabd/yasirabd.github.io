@@ -27,6 +27,14 @@ The important facts about Yasir Abdur Rohman are that he is also a teacher (teac
 ### Education
  - BSc Computer Science, Universitas Diponegoro (GPA: 3.58)
 
+### Organization / Community
+- **(May 2016 - current)** Advisor, Semarang Android Developer Center
+- **(Apr 2020 - Mar 2023)** Head, Data Science Indonesia Reg. Jawa Tengah
+- **(Oct 2018 - Apr 2020)** Volunteer, Data Science Indonesia Reg. Jawa Tengah
+- **(Apr 2017 - Dec 2020)** Organizer, Python ID Semarang
+- **(Mar 2017 - Dec 2018)** Organizer, Semarang Data Science
+- **(Jun 2016 - May 2018)** Founder & Trainer, Semarang Android Developer Center
+
 ### Professional Certificate
  - [Google Cloud Certificate](https://www.cloudskillsboost.google/public_profiles/d76b5da8-11ab-4f5f-8e88-1ba51dc477d9)
  - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://coursera.org/share/87f47db6afb5f58f3e98f5e05132f6ba)
