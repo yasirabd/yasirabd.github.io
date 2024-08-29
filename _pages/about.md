@@ -13,7 +13,7 @@ I co-founded PT Sanditheta Solusi Digital with Prasasto Adi to provide NLP solut
 
 At Rotopower, I worked alongside [Dr. Eng. Achmad Widodo](https://scholar.google.com/citations?user=4SucAC4AAAAJ&hl=id) and [Toni Prahasto, PhD](https://scholar.google.co.id/citations?user=Y1ndWpMAAAAJ&hl=en) to address rotating machinery challenges. We successfully resolved several problems for PT PLN Indonesia Power and PLN Puslitbang by developing machine learning models for predictive, prescriptive, and prognostic maintenance, as well as classification and anomaly detection.
 
-The important facts about Yasir Abdur Rohman are that he is also a teacher (teaching informatics) at MA Nurus Sunnah, a Human Resource Department (HRD) employee at Yayasan Islam Nurus Sunnah, and runs Safi Recycle, a company that focuses on creating a better environment.
+The important facts about Yasir Abdur Rohman are that he is also a teacher (teaching informatics) at MA Nurus Sunnah, Head of Human Resource Department (HRD) at Yayasan Islam Nurus Sunnah, and runs Safi Recycle, a company that focuses on creating a better environment.
 
 ### Work
 - **(30 May 2022 - current)** Data Scientist, PT Sanditheta Solusi Digital
